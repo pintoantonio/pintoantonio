@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**pintoantonio/pintoantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Antonio Pinto
 
-Here are some ideas to get you started:
+COO at TELENIMA, leading digital innovation through Telenima Digital Division (eTELENIMA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on bridging business strategy and technology, building scalable digital solutions, automation systems, and modern software products.
+
+---
+
+## About Me
+
+- Digital transformation & innovation
+- Process automation & optimization
+- Software development & web technologies
+- Scalable systems & digital infrastructure
+
+---
+
+## Tech & Tools
+
+- JavaScript / Python
+- Web Development
+- Automation Tools
+- Git & GitHub
+
+---
+
+## Current Focus
+
+Driving eTELENIMA’s digital evolution through:
+- Telenima OPTWARE
+- Intelligent automation
+- Scalable architectures
+- High-performance digital platforms
+
+---
+
+## Technology & Focus Areas
+
+- Software Engineering & System Design
+- Automation Frameworks
+- Scalable Digital Architectures
+- Web & Platform Technologies
+- Data-driven Digital Solutions
