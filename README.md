@@ -1,9 +1,7 @@
 
-# I'm Antonio Pinto
+# Antonio Pinto – COO at TELENIMA
 
-COO at TELENIMA, leading digital innovation through Telenima Digital Division (eTELENIMA).
-
-I focus on bridging business strategy and technology, building scalable digital solutions, automation systems, and secure, resilient digital platforms. Active in Cybersecurity initiatives since 2025.
+Driving digital innovation • Building scalable, secure, and resilient digital solutions • Cybersecurity advocate since 2025
 
 ---
 
@@ -19,7 +17,7 @@ I focus on bridging business strategy and technology, building scalable digital 
 
 ## Current Focus
 
-Driving eTELENIMA’s digital evolution through:
+Driving eTELENIMA's digital evolution through:
 - Telenima OPTWARE
 - Intelligent automation
 - Scalable architectures
