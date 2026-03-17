@@ -3,7 +3,7 @@
 
 COO at TELENIMA, leading digital innovation through Telenima Digital Division (eTELENIMA).
 
-I focus on bridging business strategy and technology, building scalable digital solutions, automation systems, and modern software products.
+I focus on bridging business strategy and technology, building scalable digital solutions, automation systems, and secure, resilient digital platforms. Active in Cybersecurity initiatives since 2025.
 
 ---
 
@@ -12,16 +12,8 @@ I focus on bridging business strategy and technology, building scalable digital 
 - Digital transformation & innovation
 - Process automation & optimization
 - Software development & web technologies
+- Cybersecurity & digital risk management  
 - Scalable systems & digital infrastructure
-
----
-
-## Tech & Tools
-
-- JavaScript / Python
-- Web Development
-- Automation Tools
-- Git & GitHub
 
 ---
 
@@ -42,3 +34,4 @@ Driving eTELENIMA’s digital evolution through:
 - Scalable Digital Architectures
 - Web & Platform Technologies
 - Data-driven Digital Solutions
+- Cybersecurity & Digital Risk Management
