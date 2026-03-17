@@ -36,6 +36,6 @@ Driving eTELENIMA's digital evolution through:
 
 
 
-<div align="center" style="background-color:#DDDDDD; padding:15px; margin-top:20px; border-radius:8px;">
-  <strong>Thank you for visiting!</strong><br> 
+<div align="center" style="background-color:#DDDDDD; padding:15px; margin-top:20px; border-radius:8px;"><br><br>
+  <strong>Thank you for visiting!</strong>
 </div>
