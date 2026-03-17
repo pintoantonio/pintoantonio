@@ -33,3 +33,5 @@ Driving eTELENIMA's digital evolution through:
 - Web & Platform Technologies
 - Data-driven Digital Solutions
 - Cybersecurity & Digital Risk Management
+
+![Footer Banner](https://via.placeholder.com/800x100/DDDDDD/000000?text=Thank+you+for+visiting!)
