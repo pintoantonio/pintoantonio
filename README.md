@@ -34,4 +34,6 @@ Driving eTELENIMA's digital evolution through:
 - Data-driven Digital Solutions
 - Cybersecurity & Digital Risk Management
 
-![Footer Banner](https://via.placeholder.com/800x100/DDDDDD/000000?text=Thank+you+for+visiting!)
+<div align="center" style="background-color:#DDDDDD; padding:15px; margin-top:20px; border-radius:8px;">
+  <strong>Thank you for visiting!</strong><br> 
+</div>
